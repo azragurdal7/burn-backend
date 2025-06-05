@@ -1,0 +1,133 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\0250b9cd-41a4-4e90-9a66-673d138711ca.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0250b9cd-41a4-4e90-9a66-673d138711ca.pdf"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\0cfa761b-29b3-4b43-874f-57ae6dd65e7b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0cfa761b-29b3-4b43-874f-57ae6dd65e7b.jpg"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\0e35a692-95e8-4860-8f38-7155aca14511__MG_1564 (3).JPG",
+      "PackagePath": "staticwebassets\\uploads\\0e35a692-95e8-4860-8f38-7155aca14511__MG_1564 (3).JPG"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\134d5e7c-f5c9-49a0-8dd3-c6a37dc5148e.webp",
+      "PackagePath": "staticwebassets\\uploads\\134d5e7c-f5c9-49a0-8dd3-c6a37dc5148e.webp"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\182ef4ac-61e8-4df1-a63e-ece7545c7205.pdf",
+      "PackagePath": "staticwebassets\\uploads\\182ef4ac-61e8-4df1-a63e-ece7545c7205.pdf"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\25d7098f-74d9-498a-9f4e-1b0661385b78.png",
+      "PackagePath": "staticwebassets\\uploads\\25d7098f-74d9-498a-9f4e-1b0661385b78.png"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\29b41192-cfd7-4c8a-86f9-2dd06127287a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\29b41192-cfd7-4c8a-86f9-2dd06127287a.jpg"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\2a8a82cf-2d3d-458f-9a16-ba74bd004033.webp",
+      "PackagePath": "staticwebassets\\uploads\\2a8a82cf-2d3d-458f-9a16-ba74bd004033.webp"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\51d3d534-119a-4e96-b22e-1fb59e6fb154__MG_8484 (3).JPG",
+      "PackagePath": "staticwebassets\\uploads\\51d3d534-119a-4e96-b22e-1fb59e6fb154__MG_8484 (3).JPG"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\534c1a08-b9aa-4bdc-96c3-3baaf4700fa0.pdf",
+      "PackagePath": "staticwebassets\\uploads\\534c1a08-b9aa-4bdc-96c3-3baaf4700fa0.pdf"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\76ba1c00-ae02-4d62-94ff-8a0a16e20e63.JPG",
+      "PackagePath": "staticwebassets\\uploads\\76ba1c00-ae02-4d62-94ff-8a0a16e20e63.JPG"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\80fbeb74-94ca-41d5-92b9-6e58e2d64633.jpg",
+      "PackagePath": "staticwebassets\\uploads\\80fbeb74-94ca-41d5-92b9-6e58e2d64633.jpg"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\8c20b413-4d56-44b6-bbf8-891e568c42be.JPG",
+      "PackagePath": "staticwebassets\\uploads\\8c20b413-4d56-44b6-bbf8-891e568c42be.JPG"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\98fde365-6fe3-4da3-b759-fdb79a32b55a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\98fde365-6fe3-4da3-b759-fdb79a32b55a.jpg"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\99f954ec-50c2-4d60-9f17-4927fbe028ab.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\99f954ec-50c2-4d60-9f17-4927fbe028ab.jpeg"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\9d022f00-8e1a-4e03-9d69-74b3d865bbbb.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9d022f00-8e1a-4e03-9d69-74b3d865bbbb.jpg"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\Audio\\11_a4a502ce-c9dd-4c04-86a1-46f2c3c535f5.mp4",
+      "PackagePath": "staticwebassets\\uploads\\Audio\\11_a4a502ce-c9dd-4c04-86a1-46f2c3c535f5.mp4"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\Audio\\14_45dffe17-892c-490d-8dd0-58648643905e.m4a",
+      "PackagePath": "staticwebassets\\uploads\\Audio\\14_45dffe17-892c-490d-8dd0-58648643905e.m4a"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\Audio\\1_b155df75-bb16-40f5-bd28-ace8741da047.m4a",
+      "PackagePath": "staticwebassets\\uploads\\Audio\\1_b155df75-bb16-40f5-bd28-ace8741da047.m4a"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\Audio\\1_efc1b997-1cb6-4e23-8f91-89ac19e0376f.mp4",
+      "PackagePath": "staticwebassets\\uploads\\Audio\\1_efc1b997-1cb6-4e23-8f91-89ac19e0376f.mp4"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\Audio\\2_282c7bae-2ab4-40f5-a053-36dd671f4f1c.m4a",
+      "PackagePath": "staticwebassets\\uploads\\Audio\\2_282c7bae-2ab4-40f5-a053-36dd671f4f1c.m4a"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\Audio\\3_13422e69-06bc-4c1e-a6db-2126ba8f9722.m4a",
+      "PackagePath": "staticwebassets\\uploads\\Audio\\3_13422e69-06bc-4c1e-a6db-2126ba8f9722.m4a"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\Audio\\3_46d9d26b-620d-456e-a69d-bd26d756a502.webm",
+      "PackagePath": "staticwebassets\\uploads\\Audio\\3_46d9d26b-620d-456e-a69d-bd26d756a502.webm"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\Audio\\9_bae434d3-e638-41dd-be2d-fc64c016015d.m4a",
+      "PackagePath": "staticwebassets\\uploads\\Audio\\9_bae434d3-e638-41dd-be2d-fc64c016015d.m4a"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\Audio\\d74eaa8f-c040-4a20-afa9-cff5dea176b2_forum_ses_11_1747848959612.m4a",
+      "PackagePath": "staticwebassets\\uploads\\Audio\\d74eaa8f-c040-4a20-afa9-cff5dea176b2_forum_ses_11_1747848959612.m4a"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\aa979a26-725a-44fe-97bc-a2aa1406440d_DSC_0004.JPG",
+      "PackagePath": "staticwebassets\\uploads\\aa979a26-725a-44fe-97bc-a2aa1406440d_DSC_0004.JPG"
+    },
+    {
+      "Id": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\patient_photos\\e96005ef-0fb8-4622-9c16-b0c98e1483fb_1 (11).jpg",
+      "PackagePath": "staticwebassets\\uploads\\patient_photos\\e96005ef-0fb8-4622-9c16-b0c98e1483fb_1 (11).jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BurnAnalysisApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BurnAnalysisApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BurnAnalysisApp.props",
+      "PackagePath": "build\\BurnAnalysisApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BurnAnalysisApp.props",
+      "PackagePath": "buildMultiTargeting\\BurnAnalysisApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BurnAnalysisApp.props",
+      "PackagePath": "buildTransitive\\BurnAnalysisApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
