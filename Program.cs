@@ -52,6 +52,7 @@ builder.Services.AddCors(options =>
               .AllowCredentials(); // CORS üzerinden kimlik doğrulaması yapılacaksa AllowCredentials kullanılır.
     });
 });
+builder.Services.AddSingleton<FlaskAiService>();
 
 // API Servislerini Ekle
 builder.Services.AddControllers();
