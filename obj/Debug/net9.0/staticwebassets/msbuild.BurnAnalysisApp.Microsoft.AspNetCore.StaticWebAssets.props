@@ -1,5 +1,23 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1.JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BurnAnalysisApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BurnAnalysisApp</BasePath>
+      <RelativePath>uploads/01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1.JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u9uiqwv8kf</Fingerprint>
+      <Integrity>PsyuNmOcGhLwBFtyHHs85bc4wCJCyNx6CxPP1LnKkSs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1.JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0250b9cd-41a4-4e90-9a66-673d138711ca.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>BurnAnalysisApp</SourceId>
@@ -144,6 +162,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2a8a82cf-2d3d-458f-9a16-ba74bd004033.webp'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2).JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BurnAnalysisApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BurnAnalysisApp</BasePath>
+      <RelativePath>uploads/3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2).JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xa6j124irv</Fingerprint>
+      <Integrity>qU+Q/e/YeQRHs+gH6KrZJ3T5+MDOZY77XNSUZvg5M2I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2).JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\51d3d534-119a-4e96-b22e-1fb59e6fb154__MG_8484 (3).JPG'))">
       <SourceType>Package</SourceType>
       <SourceId>BurnAnalysisApp</SourceId>
@@ -179,6 +215,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\534c1a08-b9aa-4bdc-96c3-3baaf4700fa0.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6e734208-43d0-4008-ad60-590bc809b10b_7.JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BurnAnalysisApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BurnAnalysisApp</BasePath>
+      <RelativePath>uploads/6e734208-43d0-4008-ad60-590bc809b10b_7.JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>bjtomo2id2</Fingerprint>
+      <Integrity>h4GYAyYNydpVcHKAZ7Eu5+zy0CmlGJDVfA04e5yJv0A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6e734208-43d0-4008-ad60-590bc809b10b_7.JPG'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\76ba1c00-ae02-4d62-94ff-8a0a16e20e63.JPG'))">
       <SourceType>Package</SourceType>
@@ -234,6 +288,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\8c20b413-4d56-44b6-bbf8-891e568c42be.JPG'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2).JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BurnAnalysisApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BurnAnalysisApp</BasePath>
+      <RelativePath>uploads/8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2).JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xb0vb7ie5l</Fingerprint>
+      <Integrity>k+V1vhFfXInDI9hMMRVnAPYA3bl58t45huS0qagESek=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2).JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\98fde365-6fe3-4da3-b759-fdb79a32b55a.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>BurnAnalysisApp</SourceId>
@@ -270,6 +342,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\99f954ec-50c2-4d60-9f17-4927fbe028ab.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2).JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BurnAnalysisApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BurnAnalysisApp</BasePath>
+      <RelativePath>uploads/9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2).JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5r8g2ul6b1</Fingerprint>
+      <Integrity>ryWh0hbdoFGNy+5I+pJKBZ8aoCTdQbyEXN5PWsTIeQI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2).JPG'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9d022f00-8e1a-4e03-9d69-74b3d865bbbb.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>BurnAnalysisApp</SourceId>
@@ -287,6 +377,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9d022f00-8e1a-4e03-9d69-74b3d865bbbb.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2).JPG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BurnAnalysisApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BurnAnalysisApp</BasePath>
+      <RelativePath>uploads/a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2).JPG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>o47xixdrdx</Fingerprint>
+      <Integrity>qFemtUTJeMHXX8pwei+Gn0WMmWyHTHesOkSAtgTKums=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2).JPG'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\aa979a26-725a-44fe-97bc-a2aa1406440d_DSC_0004.JPG'))">
       <SourceType>Package</SourceType>

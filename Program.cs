@@ -117,6 +117,10 @@ using (var scope = app.Services.CreateScope())
     await context.SaveChangesAsync();
 }
 
-
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    dbContext.Database.Migrate(); // Otomatik migration uygular
+}
 
 app.Run();

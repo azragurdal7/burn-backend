@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w/FYp2cBXNQGc9SDjCrk0+iVezM5g1mQZmTgAz8QeDU=",
+  "Hash": "7LiXhzwVqc8Y9riV6MpwYnjdUhq4pKDo+tRlZK66cAU=",
   "Source": "BurnAnalysisApp",
   "BasePath": "_content/BurnAnalysisApp",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1.JPG",
+      "SourceId": "BurnAnalysisApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\",
+      "BasePath": "_content/BurnAnalysisApp",
+      "RelativePath": "uploads/01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u9uiqwv8kf",
+      "Integrity": "PsyuNmOcGhLwBFtyHHs85bc4wCJCyNx6CxPP1LnKkSs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1.JPG"
+    },
     {
       "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\0250b9cd-41a4-4e90-9a66-673d138711ca.pdf",
       "SourceId": "BurnAnalysisApp",
@@ -185,6 +206,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\2a8a82cf-2d3d-458f-9a16-ba74bd004033.webp"
     },
     {
+      "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2).JPG",
+      "SourceId": "BurnAnalysisApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\",
+      "BasePath": "_content/BurnAnalysisApp",
+      "RelativePath": "uploads/3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2)#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xa6j124irv",
+      "Integrity": "qU+Q/e/YeQRHs+gH6KrZJ3T5+MDOZY77XNSUZvg5M2I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2).JPG"
+    },
+    {
       "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\51d3d534-119a-4e96-b22e-1fb59e6fb154__MG_8484 (3).JPG",
       "SourceId": "BurnAnalysisApp",
       "SourceType": "Discovered",
@@ -225,6 +267,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\534c1a08-b9aa-4bdc-96c3-3baaf4700fa0.pdf"
+    },
+    {
+      "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\6e734208-43d0-4008-ad60-590bc809b10b_7.JPG",
+      "SourceId": "BurnAnalysisApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\",
+      "BasePath": "_content/BurnAnalysisApp",
+      "RelativePath": "uploads/6e734208-43d0-4008-ad60-590bc809b10b_7#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bjtomo2id2",
+      "Integrity": "h4GYAyYNydpVcHKAZ7Eu5+zy0CmlGJDVfA04e5yJv0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6e734208-43d0-4008-ad60-590bc809b10b_7.JPG"
     },
     {
       "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\76ba1c00-ae02-4d62-94ff-8a0a16e20e63.JPG",
@@ -290,6 +353,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\8c20b413-4d56-44b6-bbf8-891e568c42be.JPG"
     },
     {
+      "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2).JPG",
+      "SourceId": "BurnAnalysisApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\",
+      "BasePath": "_content/BurnAnalysisApp",
+      "RelativePath": "uploads/8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2)#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xb0vb7ie5l",
+      "Integrity": "k+V1vhFfXInDI9hMMRVnAPYA3bl58t45huS0qagESek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2).JPG"
+    },
+    {
       "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\98fde365-6fe3-4da3-b759-fdb79a32b55a.jpg",
       "SourceId": "BurnAnalysisApp",
       "SourceType": "Discovered",
@@ -332,6 +416,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\99f954ec-50c2-4d60-9f17-4927fbe028ab.jpeg"
     },
     {
+      "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2).JPG",
+      "SourceId": "BurnAnalysisApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\",
+      "BasePath": "_content/BurnAnalysisApp",
+      "RelativePath": "uploads/9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2)#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5r8g2ul6b1",
+      "Integrity": "ryWh0hbdoFGNy+5I+pJKBZ8aoCTdQbyEXN5PWsTIeQI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2).JPG"
+    },
+    {
       "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\9d022f00-8e1a-4e03-9d69-74b3d865bbbb.jpg",
       "SourceId": "BurnAnalysisApp",
       "SourceType": "Discovered",
@@ -351,6 +456,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\9d022f00-8e1a-4e03-9d69-74b3d865bbbb.jpg"
+    },
+    {
+      "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2).JPG",
+      "SourceId": "BurnAnalysisApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\",
+      "BasePath": "_content/BurnAnalysisApp",
+      "RelativePath": "uploads/a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2)#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o47xixdrdx",
+      "Integrity": "qFemtUTJeMHXX8pwei+Gn0WMmWyHTHesOkSAtgTKums=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2).JPG"
     },
     {
       "Identity": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\aa979a26-725a-44fe-97bc-a2aa1406440d_DSC_0004.JPG",
@@ -585,6 +711,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "uploads/01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1.JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PsyuNmOcGhLwBFtyHHs85bc4wCJCyNx6CxPP1LnKkSs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:26:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PsyuNmOcGhLwBFtyHHs85bc4wCJCyNx6CxPP1LnKkSs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1.u9uiqwv8kf.JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PsyuNmOcGhLwBFtyHHs85bc4wCJCyNx6CxPP1LnKkSs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:26:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9uiqwv8kf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/01b9e5d5-0206-46b9-aa9e-1837643d9f4f_1.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PsyuNmOcGhLwBFtyHHs85bc4wCJCyNx6CxPP1LnKkSs="
+        }
+      ]
+    },
     {
       "Route": "uploads/0250b9cd-41a4-4e90-9a66-673d138711ca.ael63t81mp.pdf",
       "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\0250b9cd-41a4-4e90-9a66-673d138711ca.pdf",
@@ -1242,6 +1450,88 @@
       ]
     },
     {
+      "Route": "uploads/3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2).JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2).JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+Q/e/YeQRHs+gH6KrZJ3T5+MDOZY77XNSUZvg5M2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:23:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+Q/e/YeQRHs+gH6KrZJ3T5+MDOZY77XNSUZvg5M2I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2).xa6j124irv.JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2).JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+Q/e/YeQRHs+gH6KrZJ3T5+MDOZY77XNSUZvg5M2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:23:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xa6j124irv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3ada5c3c-0d17-4351-b0e9-fe40b158cdf1__MG_5034 (2).JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+Q/e/YeQRHs+gH6KrZJ3T5+MDOZY77XNSUZvg5M2I="
+        }
+      ]
+    },
+    {
       "Route": "uploads/51d3d534-119a-4e96-b22e-1fb59e6fb154__MG_8484 (3).go9lnclijc.JPG",
       "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\51d3d534-119a-4e96-b22e-1fb59e6fb154__MG_8484 (3).JPG",
       "Selectors": [],
@@ -1402,6 +1692,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-kqVEiaCRMpN8dVowmW7Voirvh7Mbq5in7sGVPD2jN/w="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6e734208-43d0-4008-ad60-590bc809b10b_7.bjtomo2id2.JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\6e734208-43d0-4008-ad60-590bc809b10b_7.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h4GYAyYNydpVcHKAZ7Eu5+zy0CmlGJDVfA04e5yJv0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bjtomo2id2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6e734208-43d0-4008-ad60-590bc809b10b_7.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h4GYAyYNydpVcHKAZ7Eu5+zy0CmlGJDVfA04e5yJv0A="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6e734208-43d0-4008-ad60-590bc809b10b_7.JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\6e734208-43d0-4008-ad60-590bc809b10b_7.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h4GYAyYNydpVcHKAZ7Eu5+zy0CmlGJDVfA04e5yJv0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h4GYAyYNydpVcHKAZ7Eu5+zy0CmlGJDVfA04e5yJv0A="
         }
       ]
     },
@@ -1652,6 +2024,88 @@
       ]
     },
     {
+      "Route": "uploads/8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2).JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2).JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "367078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k+V1vhFfXInDI9hMMRVnAPYA3bl58t45huS0qagESek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:21:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k+V1vhFfXInDI9hMMRVnAPYA3bl58t45huS0qagESek="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2).xb0vb7ie5l.JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2).JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "367078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k+V1vhFfXInDI9hMMRVnAPYA3bl58t45huS0qagESek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:21:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xb0vb7ie5l"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8c30c7c1-3061-4b12-b823-33dd49d1dbb6_DSCN0004 (2).JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k+V1vhFfXInDI9hMMRVnAPYA3bl58t45huS0qagESek="
+        }
+      ]
+    },
+    {
       "Route": "uploads/98fde365-6fe3-4da3-b759-fdb79a32b55a.jpg",
       "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\98fde365-6fe3-4da3-b759-fdb79a32b55a.jpg",
       "Selectors": [],
@@ -1816,6 +2270,88 @@
       ]
     },
     {
+      "Route": "uploads/9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2).5r8g2ul6b1.JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2).JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ryWh0hbdoFGNy+5I+pJKBZ8aoCTdQbyEXN5PWsTIeQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:28:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5r8g2ul6b1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2).JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ryWh0hbdoFGNy+5I+pJKBZ8aoCTdQbyEXN5PWsTIeQI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2).JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\9aae8d51-44d6-4885-87f3-3390365e6e1b_MRT_7808 (2).JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ryWh0hbdoFGNy+5I+pJKBZ8aoCTdQbyEXN5PWsTIeQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:28:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ryWh0hbdoFGNy+5I+pJKBZ8aoCTdQbyEXN5PWsTIeQI="
+        }
+      ]
+    },
+    {
       "Route": "uploads/9d022f00-8e1a-4e03-9d69-74b3d865bbbb.6t26648xii.jpg",
       "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\9d022f00-8e1a-4e03-9d69-74b3d865bbbb.jpg",
       "Selectors": [],
@@ -1894,6 +2430,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-umnhJVKzUJg6wFrPv79WkJIn4XhXQ1B+oyqXtWBRaTk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2).JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2).JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qFemtUTJeMHXX8pwei+Gn0WMmWyHTHesOkSAtgTKums=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:12:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qFemtUTJeMHXX8pwei+Gn0WMmWyHTHesOkSAtgTKums="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2).o47xixdrdx.JPG",
+      "AssetFile": "C:\\dyt\\burn-patient-backend\\burn-patient-backend\\wwwroot\\uploads\\a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2).JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276443"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qFemtUTJeMHXX8pwei+Gn0WMmWyHTHesOkSAtgTKums=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 18:12:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o47xixdrdx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a4904e52-7815-496d-abe6-fb8bfd89f4c7__MG_5035 (2).JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qFemtUTJeMHXX8pwei+Gn0WMmWyHTHesOkSAtgTKums="
         }
       ]
     },
